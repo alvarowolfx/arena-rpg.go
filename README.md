@@ -1,4 +1,6 @@
-# Arena-RPG feito em Go
+
+####Coding Dojo s05e01 (Originalmente feito em Ruby)
+# Arena-RPG feito em Go 
 
 ### Problema: Combate na arena (RPG)
 
